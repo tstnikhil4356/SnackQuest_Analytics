@@ -1,0 +1,2 @@
+Product_Category,Avg_Daily_Demand,Lead_Time_Days,Safety_Stock,Reorder_Point,Yellow_Threshold,Red_Threshold,Service_Level,Last_Updated
+Granola,773.053011123136,6,222.6586828733213,4860.976749612138,4972.306091048798,4860.976749612138,0.95,2026-02-24 23:33:33.917282

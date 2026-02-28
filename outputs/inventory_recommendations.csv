@@ -1,0 +1,2 @@
+Product,Current_Reorder_Point,Recommended_Reorder_Point,Increase_Needed,Safety_Stock,Expected_Daily_Demand,Lead_Time_Days,Service_Level_Target
+Granola Products,53.9,4860.976749612138,4807.076749612138,222.6586828733213,773.053011123136,6,0.95
