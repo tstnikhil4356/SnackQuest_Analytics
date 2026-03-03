@@ -19,6 +19,14 @@
 
 ---
 
+##  Executive Presentation
+
+### ▶ View Presentation Below
+
+<iframe src="https://docs.google.com/presentation/d/1XxKmlKUN4tNcb55sCog-YBiN-YVPLTP5/edit?usp=share_link&ouid=113805233226906208687&rtpof=true&sd=true" 
+width="100%" height="600px" allow="autoplay">
+</iframe>
+
 ## Business Impact Summary
 
 ### Key Findings
