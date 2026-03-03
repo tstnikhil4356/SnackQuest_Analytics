@@ -19,6 +19,16 @@
 
 ---
 
+---
+
+## Executive Presentation
+
+### Download Full Executive Deck
+
+[Click Here to View / Download the Presentation](Accusmash_DA.pdf)
+
+---
+
 ## Business Impact Summary
 
 ### Key Findings
